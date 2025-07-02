@@ -13,9 +13,6 @@
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
     "packages":[
         {
             "name":"io.github.python1320.vr_audience_fire",
