@@ -22,12 +22,6 @@
             "releases":[
                 "https://github.com/Python1320/vr_audience_fire/releases/download/0.9/vr_audience_fire_prefab.zip",
             ]
-        },
-        {
-            "name":"io.github.python1320.vr_asmr_petting",
-            "releases":[
-                "https://github.com/Python1320/vr_asmr_petting/releases/download/0.9/vr_asmr_petting_prefab.zip",
-            ]
         }
     ]
 }
