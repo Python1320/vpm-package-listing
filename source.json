@@ -1,15 +1,15 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"VRC Avatar Prefabs: ASMR/Fire/etc",
+    "id":"io.github.python1320.vpm-package-listing",
+    "url":"https://python1320.github.io/vpm-package-listing/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"python1320+vpm@gmail.com",
+        "name":"Python1320",
+        "url":"https://python1320.github.io/vpm-package-listing"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Listing of VRChat packages: ASMR/Fire/etc",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://python1320.github.io/vpm-package-listing",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
@@ -18,10 +18,15 @@
     ],
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
+            "name":"io.github.python1320.vr_audience_fire",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                "https://github.com/Python1320/vr_audience_fire/releases/download/0.9/vr_audience_fire_prefab.zip",
+            ]
+        },
+        {
+            "name":"io.github.python1320.vr_asmr_petting",
+            "releases":[
+                "https://github.com/Python1320/vr_asmr_petting/releases/download/0.9/vr_asmr_petting_prefab.zip",
             ]
         }
     ]
